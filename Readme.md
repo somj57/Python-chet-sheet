@@ -12,7 +12,7 @@ Contents
 **Advanced Python:** **[`Modules`](#modules)__,__[`Iterators`](#iterators)__,__[`Generators`](#generators)__,__[`Decorators`](#decorators)__,__[`Class`](#class)__,__[`Exceptions`](#exceptions)__,__[`Command Line Arguments`](#command-line-arguments)__,__[`File IO`](#file-io)__,__[`Useful Libraries`](#useful-libraries)**  
 
 
-Numbers
+Numbers 👇🏼
 ----
 **python's 2 main types for Numbers is int and float (or integers and floating point numbers)**
 ```python
